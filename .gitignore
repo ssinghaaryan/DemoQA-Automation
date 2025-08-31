@@ -1,0 +1,4 @@
+# Ignore JRE system library and Maven dependencies
+.classpath
+.project
+.settings/
